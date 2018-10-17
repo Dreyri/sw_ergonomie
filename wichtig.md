@@ -16,4 +16,20 @@ est ist eigentlich der Lichtschalter.
 
 # Gesetz der Aehnlichkeit
 
+# Gesetz der guten Fortsetzung
+
+Zebras, tarnen sich in der Gruppe weil die Muster sich zusammen blenden.
+Dadurch erscheinen sie groesser.
+
+# Gesetz der Geschlossenheit
+
+# Gesetz der Bewegung
+
+Fliegen die sich als Gruppe bewegen.
+
+# Mustererkennung
+
+Buch lesen, speedreading, oft wird beim normalen lesen zuruck geguckt fuer fehlende Information.
+Aber wenn man einfach weiterlesen wurde wurde sich die Information aus dem Kontext deutlich machen.
+
 
