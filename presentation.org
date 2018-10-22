@@ -1,0 +1,44 @@
+* Gruppe 6
+
+** Windows Environment
+
+*** Desktop
+    
+Kurze Beschreibung vom Desktop. Quasi eine Einfuehrung in der Umgebung wodrin wir arbeiten.
+
+**** Concepts
+    
+***** Work Area
+     
+ Der Gebiet wodrauf gearbeitet wird, auch werden hier Links zu programmen und folders gespeichert.
+
+***** Start button
+     
+ Zugriff auf alle Programme und spezielle Folder sowie Bilder, Dokumente, Videos, etc.
+
+***** Taskbar
+     
+ Fuer Programme die eine Praesenz auf dem Desktop haben.
+     
+***** Deskband
+     
+ Sollte man nicht benutzen, ein Beispiel waere die Sprache der Tastatur.
+
+***** Notification area
+     
+ Eine Quelle fuer Nachrichten und Status, sowohl wie ein Punkt um Programme ohne Praesenz auf dem Desktop zu bedienen.
+
+**** Guidelines
+
+
+
+*** Taskbar
+
+*** Notification Area
+
+*** Control Panels
+
+*** Help
+
+*** User Account Control
+    
