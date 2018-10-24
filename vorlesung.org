@@ -39,4 +39,25 @@
   
    Gewichtete Sortierung: Task menu nach Benutzungshauefigkeit sortieren.
   
+   
+   
+* Klausurrelevant
 
+** Individuelle Unterschiede
+   
+*** Dauerhaft
+**** Geschlecht
+**** Physische Eigenschaften
+**** Intelligenz
+**** Kultur
+*** Temporaer
+**** Stress
+**** Muedigkeit
+*** Flexibel
+**** Alter
+     
+* Nicht in Klausur
+
+** Slide 66-69/77
+
+Deduktiv, induktives und abduktives Argumentieren
